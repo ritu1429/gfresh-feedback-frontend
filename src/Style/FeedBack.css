@@ -44,7 +44,7 @@ textarea {
   border: none;
   background-color: #7f8f6e;
   color: black;
-  /* background-color: #dfdfdf; */
+  background-color: #dfdfdf;
 }
 
 input[type="text"],
